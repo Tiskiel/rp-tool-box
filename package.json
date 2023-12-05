@@ -19,6 +19,7 @@
     "sequelize": "^6.35.1"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.11",
     "eslint": "^8.55.0",
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
